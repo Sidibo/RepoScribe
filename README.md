@@ -1,73 +1,77 @@
-# Welcome to your Lovable project
+# RepoScribe ✍️
 
-## Project info
+> Your AI Scribe for Perfect Repository Documentation
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+RepoScribe is an AI-powered developer tool that automatically generates professional **README.md documentation** for any GitHub repository.
 
-## How can I edit this code?
+Writing documentation is often one of the most time-consuming and neglected parts of software development. RepoScribe solves this problem by analyzing a repository and generating a complete, structured README within seconds.
 
-There are several ways of editing your application.
+With a simple GitHub repository link, RepoScribe can generate:
 
-**Use Lovable**
+- Project descriptions
+- Installation instructions
+- API documentation
+- Architecture diagrams
+- README badges
+- Folder structure explanations
+- Usage instructions
+- Contribution guidelines
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+RepoScribe is designed to help developers **focus on building software rather than writing documentation.**
 
-Changes made via Lovable will be committed automatically to this repo.
+---
 
-**Use your preferred IDE**
+# ✨ Features
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## 🔍 Intelligent Repository Analysis
+RepoScribe automatically analyzes a GitHub repository to detect:
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- Programming languages
+- Frameworks and libraries
+- Dependencies
+- Folder structure
+- Scripts and configuration files
+- Backend APIs
+- Database integrations
 
-Follow these steps:
+The analysis allows RepoScribe to generate documentation tailored specifically to the project.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 🤖 AI-Powered README Generation
+RepoScribe uses large language models (LLMs) to generate a **fully structured README.md**.
 
-# Step 3: Install the necessary dependencies.
-npm i
+Generated sections include:
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+- Project Title
+- Project Description
+- Key Features
+- Tech Stack
+- Installation Instructions
+- Usage Guide
+- Folder Structure
+- API Documentation
+- Contribution Guide
+- License
 
-**Edit a file directly in GitHub**
+This ensures the repository has **clear and consistent documentation**.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+---
 
-**Use GitHub Codespaces**
+## 🧠 Automatic Tech Stack Detection
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+RepoScribe automatically detects technologies used in the project such as:
 
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
 - React
-- shadcn-ui
-- Tailwind CSS
+- Next.js
+- Node.js
+- Express
+- MongoDB
+- PostgreSQL
+- Python
+- Flask
+- Django
 
-## How can I deploy this project?
+This information is then added to the README in the **Tech Stack section**.
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Example:
