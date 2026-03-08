@@ -1,4 +1,4 @@
-# RepoScribe ------------
+# RepoScribe -----------------------------------
 
 > Your AI Scribe for Perfect Repository Documentation
 
