@@ -21,7 +21,7 @@ RepoScribe is designed to help developers **focus on building software rather th
 
 ---
 
-# ✨ Features
+# ✨ Features:-
 
 ## 🔍 Intelligent Repository Analysis
 RepoScribe automatically analyzes a GitHub repository to detect:
