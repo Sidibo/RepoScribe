@@ -72,6 +72,4 @@ RepoScribe automatically detects technologies used in the project such as:
 - Flask
 - Django
 
-This information is then added to the README in the **Tech Stack section**.
 
-Example:
